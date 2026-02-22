@@ -84,5 +84,3 @@ The objective was to predict `time_to_arrive` (total time between order and deli
 *   Implement cross-validation for more robust evaluation.
 *   Deploy the model using a REST API (e.g., FastAPI or Flask).
 
----
-*Created by [Your Name]*
